@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.62b373b0.css",
+    "main.js": "/static/js/main.342f3c6f.js",
+    "static/media/bluejeans.jpeg": "/static/media/bluejeans.c6049e1ad56dbc018296.jpeg",
+    "static/media/pinkskirt.jpeg": "/static/media/pinkskirt.4624469c3b2fa3ec07a4.jpeg",
+    "static/media/bluedress.png": "/static/media/bluedress.6c5b890e6929280d5e7d.png",
+    "static/media/bluejacket.webp": "/static/media/bluejacket.29654551975e9bf28648.webp",
+    "static/media/greenjacket.webp": "/static/media/greenjacket.6fd0db1067ce6bd6f29b.webp",
+    "static/media/whitejeans.webp": "/static/media/whitejeans.f87acec20c88aaaddebe.webp",
+    "static/media/redshirt.webp": "/static/media/redshirt.c8218cd0dee88f130459.webp",
+    "static/media/greenskirt.jpeg": "/static/media/greenskirt.167ed46afd83523a4fda.jpeg",
+    "static/media/greendress.jpeg": "/static/media/greendress.6d7937d314f265e15fe0.jpeg",
+    "static/media/redjacket.webp": "/static/media/redjacket.7efd8cc41a53aa37ab7c.webp",
+    "static/media/blackjeans.png": "/static/media/blackjeans.f935bf4db5551f3c8164.png",
+    "static/media/pinkdress.png": "/static/media/pinkdress.8aa9b52939a2fcde18cf.png",
+    "static/media/blueskirt.webp": "/static/media/blueskirt.8b721c81002f6a9f23f4.webp",
+    "static/media/greenshirt.webp": "/static/media/greenshirt.cb095ff0f3f1f214308b.webp",
+    "index.html": "/index.html",
+    "main.62b373b0.css.map": "/static/css/main.62b373b0.css.map",
+    "main.342f3c6f.js.map": "/static/js/main.342f3c6f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.62b373b0.css",
+    "static/js/main.342f3c6f.js"
+  ]
+}
